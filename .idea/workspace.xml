@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="61cb634d-c09d-4f41-a1dd-6ae2c7a7cf47" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1px41zuZsheafVuQ7d70TDs1c5h" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="phonebook" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mypeople" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="phonebook" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/mypeople.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.mypeople" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61cb634d-c09d-4f41-a1dd-6ae2c7a7cf47" name="Default Changelist" comment="" />
+      <created>1616111196016</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616111196016</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="267" y="39" key="#Inspections" timestamp="1618324489162">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="267" y="39" key="#Inspections/0.0.1280.720@0.0.1280.720" timestamp="1618324489162" />
+    <state x="438" y="69" key="#Python" timestamp="1618324412227">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="438" y="69" key="#Python/0.0.1280.720@0.0.1280.720" timestamp="1618324412227" />
+    <state x="395" y="162" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1616265492247">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="395" y="162" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.720@0.0.1280.720" timestamp="1616265492247" />
+    <state x="421" y="115" key="FileChooserDialogImpl" timestamp="1618373025984">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="421" y="115" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1618373025984" />
+    <state width="1259" height="68" key="GridCell.Tab.0.bottom" timestamp="1618567478731">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="68" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1618567478731" />
+    <state width="1259" height="68" key="GridCell.Tab.0.center" timestamp="1618567478731">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="68" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1618567478731" />
+    <state width="1259" height="68" key="GridCell.Tab.0.left" timestamp="1618567478730">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="68" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1618567478730" />
+    <state width="1259" height="68" key="GridCell.Tab.0.right" timestamp="1618567478731">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="68" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1618567478731" />
+    <state width="1237" height="220" key="GridCell.Tab.1.bottom" timestamp="1618276266267">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="220" key="GridCell.Tab.1.bottom/0.0.1280.720@0.0.1280.720" timestamp="1618276266267" />
+    <state width="1237" height="220" key="GridCell.Tab.1.center" timestamp="1618276266267">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="220" key="GridCell.Tab.1.center/0.0.1280.720@0.0.1280.720" timestamp="1618276266267" />
+    <state width="1237" height="220" key="GridCell.Tab.1.left" timestamp="1618276266267">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="220" key="GridCell.Tab.1.left/0.0.1280.720@0.0.1280.720" timestamp="1618276266267" />
+    <state width="1237" height="220" key="GridCell.Tab.1.right" timestamp="1618276266267">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="220" key="GridCell.Tab.1.right/0.0.1280.720@0.0.1280.720" timestamp="1618276266267" />
+    <state x="142" y="5" key="SettingsEditor" timestamp="1618317359315">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="142" y="5" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1618317359315" />
+  </component>
+</project>
